@@ -1,7 +1,7 @@
 function drawChart(data) {
 
   // Number of cluster calculation
-  coun = []
+  var coun = []
   for (var i = 0; i < data.length; i++) {
     coun.push(data[i].country);
   }
@@ -12,7 +12,7 @@ function drawChart(data) {
       height = 550,
       padding = 2, // separation between same-color circles
       clusterPadding = 3, // separation between different-color circles
-      maxRadius = 6;
+      maxRadius = 12;
 
   var n = data.length, // nodes
       m = uniqueItems.length, // clusters
@@ -33,6 +33,7 @@ function drawChart(data) {
           year: d.year,
           place: d.place,
           magnitude: d.magnitude,
+          numero: d.numero,
           x: Math.cos(i / m * 2 * Math.PI) * 100 + width / 2 + Math.random(),
           y: Math.sin(i / m * 2 * Math.PI) * 100 + height / 2 + Math.random()
         };
@@ -60,7 +61,8 @@ function drawChart(data) {
     return "<span class='ngrupo'>" + d.country + "</span>" + "<br>"
           +"<span class='ngrupo'>" + d.place + "</span>" + "<br>"
           +"<span class='ngrupo'>" + d.year + "</span>" + "<br>"
-          +"<spanclass='ngrupo'>" + d.magnitude + "</span>" ;
+          +"<spanclass='ngrupo'>" + d.magnitude + "</span>"
+          +"<p class='ngrupo'>Lugar: " + d.place + "</p>";
   }
 
   var tool_tip = d3.tip()
@@ -101,18 +103,21 @@ function drawChart(data) {
     var color2 = d3.scaleOrdinal(pallete);
 
   // Capacidades //////////////////////////////////////
+  var mayorIguala60 = 650;
+  var menorA60 = 400;
+
   d3.select("#year").on('click',function(){
     simulation
-    .force('center', d3.forceCenter(width/2, height/2.3))
-    // .force('collide', d3.forceCollide(function (d) { return d.magnitude }))
     .force("y", d3.forceY(function(d){
-      if(Number(d.year) >= 1960){
-        return 460 } else {
-          return 650 }
+      if(Number(d.year) > 1960){
+        return mayorIguala60 } else {
+          return menorA60 }
     }).strength(0.5))
     .force('x',d3.forceX(function() { return width/2 }).strength(0.1).x(width * .5))
     .alphaTarget(0.1)
     .restart();
+    // node
+    // .attr('r', function(d) {return Number(d.numero)-100;})
   })
 
   d3.select("#magnitud").on('click',function(){
@@ -132,6 +137,7 @@ function drawChart(data) {
 }; ////////////////////////////////// D3 - END //////////////////////////////////
 
 ////////////////////////////////// Tabletop //////////////////////////////////
+var link = 'https://docs.google.com/a/crishernandez.co/spreadsheets/d/1XRa3GFloRymR3TeFpCK1MZDvMqhXEQ1vXFQWliusJhc/edit?usp=sharing'
 var terremotos = '1XRa3GFloRymR3TeFpCK1MZDvMqhXEQ1vXFQWliusJhc'
 var options = { key: terremotos, simpleSheet: true, callback: draw }
 function renderSpreadsheetData() { Tabletop.init(options) }
