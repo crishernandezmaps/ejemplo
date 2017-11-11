@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Terremotos</title>
+  <!-- Styles -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <div class="navbar-header">
+    <button type="button" class="btn btn-secondary btn-sm" id="year">1960</button>
+    <button type="button" class="btn btn-secondary btn-sm" id="magnitud">Magnitud</button>
+  </div>
+
+  <div class="container-fluid text-center">
+    <div class="row content">
+      <div class="col-sm-12 text-left">
+        <div id="bubbles"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- D3 -->
+  <script src="js/d3.v4.min.js"></script>
+  <script src="js/d3-force-cluster.js"></script>
+  <script src="js/d3-tip.js"></script>
+  <!-- Tabletop -->
+  <script src="js/tabletop.js"></script>
+  <!-- Custom Visualizations -->
+  <script src="js/terremotos.js"></script>
+  <!-- Structure -->
+  <script src="js/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+  <script src="js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+  <script src="js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+  <!-- Menu change according to the option -->
+  <script type="text/javascript">
+  $(function(){
+    $(".geoA li a").click(function(){
+      $("#capbutA:first-child").text($(this).text());
+      $("#capbutA:first-child").val($(this).text());
+    });
+  });
+  function rel() {
+    location.reload();
+  }
+  document.documentElement.classList.remove("no-js");
+  document.documentElement.classList.add("js");
+  </script>
+</body>
+</html>

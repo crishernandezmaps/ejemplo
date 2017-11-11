@@ -1,0 +1,69 @@
+codigo_entidad,entidad,id_gi,nombre_gi,linea_investigacion,inocuidad,ingredientes_criticos,funcionalidad_alimentaria
+1,UNAP,1-1,Grupo Alimentos Funcionales y Nutracéuticos,"Alimentos funcionales y terapéuticos botánicos derivados de la biomasa agrícola, acuícola y de plantas.",,,X
+2,UCN,2-1,Grupo Estudios de Productos Naturales y Compuestos Bioactivos.,Bioinnovación y compuestos bioactivos,X,,X
+3,UANTOF,3-1,Laboratorio de Química Biológica,"Estudio de la composición química de los extractos, y los efectos sobre propiedades biológicas de organismos vivos, animales o plantas.",,,X
+4,INIA/CRI,4-1,Valorización de especie nativas y típicas,Valorización de especies nativas y típicas de la Región de Coquimbo: Copao como una alternativa productiva para sectores de baja pluviometría. Elaboración de suplementos alimenticios en base al desecho de agroindustria de alcachofa y papaya en la Región de Coquimbo.,,,X
+4,INIA/CRI,4-2,Reducción del uso de plaguicidas en frutales,Reducción del uso de plaguicidas en frutales de exportación,X,,
+4,INIA/CRI,4-3,Funcionalidad alimentaria en aceitunas y aceite de oliva,Funcionalidad alimentaria en aceitunas y aceite de oliva,,,X
+5,USERENA,5-1,Grupo  ULS,"Ciencia, tecnología y procesamiento de alimentos",,,X
+6,CREAS,6-1,Grupo CREAS,Desarrollo de tecnologías para una agricultura sustentable en la obtención de alimentos saludables.,X,,X
+6,CREAS,6-2,Grupo CREAS,Desarrollo de productos y procesos sustentables para la obtención de bioactivos y alimentos saludables,,X,X
+6,CREAS,6-3,Grupo CREAS,Evaluación de las propiedades saludables y funcionales de alimentos y productos (determinar  bioactividad in vitro e  in vivo).,,,X
+7,INIA/CRI,7-1,Grupo de investigación en compuestos bioactivos,Caracterización de compuestos bioactivos y manejo agronómico para incrementar los compuestos saludables de los alimentos vegetales.,,,X
+8,PUC Valparaíso,8-1,Producción y evaluación biológica de compuestos antioxidantes,"Generación de compuestos orgánicos con actividad biológica y estudio de microorganismos como catalizadores biológicos. En la producción de compuestos antioxidantes utilizan catalizadores biológicos, incluido microorganismos, lo cual permite transformaciones selectivas en compuestos de alto valor agregado.La investigación se enfoca en la evaluación de la actividad biológica de compuestos antioxidantes orientada a la identificación de blancos celulares relevantes para el diagnóstico, prevención y/o tratamiento de enfermedades crónicas no transmisibles. Su principal interés se relaciona con el desarrollo de estrategias que puedan impactar positivamente enfermedades como cáncer, disfunción vascular y neurodegeneración. Ejemplos de ellas son la búsqueda de nuevos biomarcadores en cáncer, así como biomarcadores robustos para ensayos in vitro.",,,X
+8,PUC Valparaíso,8-2,Laboratorio de Fotofísica y Espectroscopia Molecular,Capacidad antioxidante de compuestos naturales y alimentos funcionales. Aplicaciones industriales de la tecnología ultravioleta pulsada.,X,,X
+9,PUC Valparaíso,9-1,Unidad de Procesos,Desarrollo de productos y procesos sustentables para la obtención de bioactivos y alimentos saludables,,,X
+9,PUC Valparaíso,9-2,Unidad de Procesos,Prebióticos de lactulosa,,,X
+10,PUC Valparaíso,10-1,Laboratorio de Investigación en química y bioquímica de alimentos,Química y bioquímica de alimentos funcionales y compuestos bioactivos relevantes a la salud,,,X
+11,UV,11-1,Centro de Investigación CIDAF,Alimentos saludables y funcionales – compuestos bioactivos y sus efectos,,,X
+11,UV,11-2,Producción y evaluación biológica de compuestos antioxidantes,"Generación de compuestos orgánicos con actividad biológica y estudio de microorganismos como catalizadores biológicos. En la producción de compuestos antioxidantes utilizan catalizadores biológicos, incluido microorganismos, lo cual permite transformaciones selectivas en compuestos de alto valor agregado.La investigación se enfoca en la evaluación de la actividad biológica de compuestos antioxidantes orientada a la identificación de blancos celulares relevantes para el diagnóstico, prevención y/o tratamiento de enfermedades crónicas no transmisibles. Su principal interés se relaciona con el desarrollo de estrategias que puedan impactar positivamente enfermedades como cáncer, disfunción vascular y neurodegeneración. Ejemplos de ellas son la búsqueda de nuevos biomarcadores en cáncer, así como biomarcadores robustos para ensayos in vitro.",,,X
+12,USM,12-1,Procesamiento de Alimentos y Bioprocesos,Procesamiento de alimentos y bioprocesos.,X,X,X
+13,Fundación Chile,13-1,Alimentos Saludables,Innovación y desarrollo de alimentos saludables,,X,X
+14,INIA/CRI,14-1,Mejoramiento genético de hortalizas,"Mejoramiento genético de especies hortícolas agroindustriales (pimiento, alcachofa, maíz de consumo fresco, cebolla y ajo) orientado a la funcionalidad alimentaria",,,X
+15,PUC,15-1,Bioprospección de Recusos Naturales en Vegetales Endémicos,"Bioprospección de Recusos Naturales en Vegetales Endémicos de Chile. Obtención de Nuevos Productos con Propiedades Fungicidas, Bactericidas y Antioxidantes a Partir de Plantas Medicinales y  Productos Apícolas Chilenos",,,X
+15,PUC,15-2,Inocuidad y calidad de alimentos de origen animal,Inocuidad y calidad de alimentos de origen animal (alimentos funcionales),X,,X
+16,PUC,16-1,CNMEC,Desarrollo de alimentos funcionales.Investigación y promoción de alimentación y estilos de vida saludable.Estudios de intervención e animales y personas para probar efectos biológicos de alimentos en las personas.,,X,X
+17,PUC,17-1,Radicales libres y antioxidantes,Radicales libres y antioxidantes,,,X
+18,PUC,18-1,ASIS,Ingredientes de alimentos,,,X
+18,PUC,18-2,ASIS,Prototipado y manufactura de productos.,,,X
+18,PUC,18-3,ASIS,Calidad y seguridad,X,X,
+18,PUC,18-4,ASIS,Biotecnología de alimentos: Investigación reciente en producción de nutraceúticos usando ingeniería genética.,,,X
+19,PUC,19-1,Química Medicinal/Química de Productos Naturales/Síntesis Orgánica,"Química medicinal, química de productos naturales, síntesis orgánica",,,X
+19,Uchile,19-2,Química de Productos Naturales,Colorantes Naturales. Investigación y desarrollo de productos apícolas,,,X
+19,Uchile,19-3,Laboratorio de Biología Molecular Vegetal,Fisiología y Biología Molecular Vegetal: dos tipos de polisacáridos de Aloe vera que son prebióticos. Además la acción que ellos puedan tener en el sistema inmune.,,,X
+19,Uchile,19-4,Metabolismo de polisacáridos en plantas,Metabolismo de polisacáridos en plantas,,,X
+19,Uchile,19-5,Biosíntesis de carotenoides en plantas,Biosíntesis de carotenoides en plantas,,,X
+20,Uchile,20-1,CEPOC,Inocuidad y seguridad alimentaria. Funcionalidad alimentaria de alimentos mínimamente procesados,X,,X
+20,Uchile,20-2,GIAF,Ingredientes y alimentos funcionales,,,X
+20,Uchile,20-3,Laboratorio de productos vegetales,Transformación y usos de productos vegetales. Extracción y uso de compuestos bioactivos de especies de zonas áridas,,,X
+21,Uchile,21-1,Marcadores moleculares calidad e inocuidad de los alimentos,Uso de marcadores moleculares en calidad e inocuidad de los alimentos. Aplicaciones en trazabilidad y denominación de origen de mitílidos.,X,,
+21,Uchile,21-2,Lípidos y compuestos bioactivos,Estudio de los nutrientes y los componentes bioactivos presentes en los alimentos.,,,X
+21,Uchile,21-3,Microbiología aplicada a la inocuidad de los alimentos e industrial,Microbiología aplicada a la inocuidad de los alimentos y microbiología industrial.,X,,
+22,Uchile,22-1,Inocuidad de Alimentos,"Aseguramiento de la calidad e inocuidad de alimentos, con énfasis en microbiología de alimentos",X,,
+23,Uchile,23-1,Alimentos funcionales,"Alimentos funcionales, Alimentos fermentados, Prebióticos, Probióticos: desarrollo de alimentos/nutraceuticos e impacto sobre la salud  Lipidos dietarios de interés para la saludActividades antibacteriana, antioxidante, anti-inflamatoria y reguladora de la función mitocondrial y adipocitaria de compuestos bioactivosFisiología digestiva – Interacción entre compuestos bioactivos de la dieta, microbiota y mucosa intestinal– Desarrollo de ensayos clínicos para la evaluación de alimentos funcionales en el ser humano sano o patológico",,X,X
+23,Uchile,23-2,Laboratorio de Bioquímica Nutricional,"Fibra dietética, polifenoles y antioxidantes en materias primas y su utilización en alimentos: efecto en la estabilidad, capacidad antioxidante en plasma y en indicadores biológicos.Aceites: incorporación de antioxidantes naturales y su efecto en la estabilidad (vida útil, frituras)Algas: caracterización y utilización como ingrediente funcionalAnálisis sensorial de alimentosIndicadores biológicos: indice glicémico, saciedad, carga glicémica, capacidad antioxidante en plasma.",,X,X
+24,Uchile,24-1,LAOX,"Antioxidantes (polifenoles) en alimentos: caracterización de la composición, evaluación de la bioactividad y desarrollo de alimentos funcionales y/o productos nutracéuticos",,,X
+24,Uchile,24-2,Laboratorio de Microbiología y Probióticos,"Inocuidad de alimentos, alimentos funcionales, probióticos y prebióticos, diagnóstico microbiológico, asesorías y auditorías en prerrequisitos y HACCP, actividad antibacteriana del cobre.",X,,X
+24,Uchile,24-3,Laboratorio de Lípidos y Antioxidantes,"Funcionalidad de lípidos alimentarios, omega-3, fitoesteroles, policosanoles",,X,X
+24,Uchile,24-4,INTA,Biotecnología de alimentos,X,,
+24,Uchile,24-5,Genética Molecular Vegetal,Genómica comparativa entre frutales y plantas modelos para mejorar la calidad y valor nutricional de las frutas.,,,X
+25,UDD,25-1,Alimentos funcionales,Alimentos funcionales: cerveza como alimento funcional,,,X
+25,UDD,25-2,Diagnóstico y control de patógenos de abejas melíferas,Diagnóstico y control de patógenos de abejas melíferas,X,,
+26,USACH,26-1,CECTA,Sistemas de desinfección de hortalizas para producción de hortalizas IV gama,X,,
+27,USACH,27-1,Laboratorio de Envases,"Envases de Alimentos, Procesos de Interacción Envase –Alimento, Envases Activos, Nanotecnología.",X,,
+27,USACH,27-2,LAMAP,"El grupo de trabajo se ha centrado en la inocuidad de productos fermentados, en especial vino. Para ello, se han desarrollado metodologías para detectar compuestos tóxicos, como son aminas biogénicas, producidas por los microorganismos responsables de la fermentación",X,,
+28,UMAYOR,28-1,CIEMAYOR,Inocuidad de alimentos y funcionalidad,X,,X
+29,CEAP,29-1,CEAP,Estudios de evaluación alimentaria para la obtención de nuevos productos.,,,X
+30,UTALCA,30-1,Centro tecnológico de la Vid y el Vino,Seguridad Alimentaria (residuos de pesticidas en vino),X,,
+31,UTALCA,31-1,Centro de Pomáceas,Calidad nutritiva y alimentos mínimamente procesados,,,X
+32,UTALCA,32-1,Plantas Medicinales Chilenas,"Plantas nativas de Chile, domesticación y mejoramiento genético, variabilidad y compuestos químicos naturales",,,X
+33,UTALCA,33-1,Laboratorio de Hematología e Inmunología.,Productos Bioactivos (desde frutas y hortalizas). Trombogénesis y Disfunción endotelial. Dislipidemias. Epidemiología,,,X
+34,UCSC,34-1,Laboratorio de Química y Biotecnología,"Biocatálisis. Enzimas de aplicación industrial: Producción, caracterización, estabilización y usos de enzimas. Producción de metabolitos secundarios.",,X,X
+35,UDEC,35-1,Alimentos Funcionales,Desarrollo e Investigación química y farmacológica de ingredientes bio-activos extraídos desde fuentes vegetales,X,,X
+36,UDEC,36-1,Grupo de Ingeniería en Alimentos,"Investigación en temas agroalimentarios desde un punto de vista principalmente ingenieril, tomando aspectos desde la poscosecha de productos frescos, hasta el desarrollo de productos con alto valor agregado, pasando por el diseño tanto de líneas de procesamiento como de equipos y plantas, que sean amigables con el ambiente y que cumplan las normativas de calidad como sanitarias vigentes.",,,X
+37,UBIOBIO,37-1,Búsqueda de actividades biológicas de productos naturales.,"Búsqueda de actividades biológicas de productos naturales (actividades nutracéuticas, antioxidantes, biocidas de productos naturales obtenidos de plantas chilenas tanto marítimas como terrestres).",,,X
+38,UCT,38-1,PDA,"Alimentos funcionales, de origen étnico, e innovación alimentaria",,,X
+39,UCT,39-1,Núcleo de Investigación en Producción Alimentaria,Producción Vegetal: Fisiología y biología molecular vegetal; identificación y caracterización de metabolitos en especies agronómicas de interés agrícola y social,,,X
+40,UFRO,40-1,BIOREN,Biotecnología Alimentaria y Bioseparaciones,,,X
+41,UACH,41-1,ICYTAL,"Microbiología de alimentos, Bioseguridad alimentaria y bioinsumos para la industria alimentariaEstudio de dieta total: Estimación de la ingestión de metales pesados y otros contaminantes en alimentos. Productos naturales: caracterización de propiedades bioactivos su y utilización en alimentos. Desarrollo de alimentos para fortalecer el estado nutricional de las abejasBiotecnología (fermentación y  tecnología de enzimas). Producción de enzimas y compuestos con actividad biológica",X,,X
+42,UACH,42-1,Campylobacter y Arcobacter,"Campylobacter y Arcobacter en reservorios, vehículos de transmisión (alimentos), medio ambiente y en el ser humano. Actividad antibacteriana de mieles chilenas",X,,
